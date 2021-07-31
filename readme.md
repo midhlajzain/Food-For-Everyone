@@ -27,7 +27,7 @@ Front-end:
 
 Back-end :
 - PHP
-- Laravel Framework (Framework)
+- Laravel (Framework)
 - MySQL
 
 ## Modules & Pages
